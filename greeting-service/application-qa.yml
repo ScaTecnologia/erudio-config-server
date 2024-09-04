@@ -2,7 +2,7 @@ spring:
   application:
     name: greeting-service
 greeting-service:
-  greeting: "QA"
+  greeting: "QA Pronto CI/CD"
   default-value: "Mundo"
 
 
